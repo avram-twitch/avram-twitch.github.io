@@ -19,6 +19,8 @@ both fiction and nonfiction, but I especially love classic literature. I also
 enjoy going to concerts, visiting art exhibits, and hiking Utah's many majestic
 mountains.
 
+<img src="/assets/mountain.jpg" alt="Mountains">
+
 I am currently based in Lehi, Utah, with my wife.
 
 
