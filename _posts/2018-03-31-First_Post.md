@@ -1,12 +1,8 @@
 --- 
 layout: default 
-
 title:  "Avram's First Post!" 
-
 date:   2018-03-31 16:39:41 -0700 
-
 categories: jekyll update 
-
 ---
 
 Welcome to my new website! 
