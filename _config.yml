@@ -16,8 +16,8 @@
 title: Avram Twitchell
 email: avram.twitch@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-    I am a current computer science student, with a background in economics,
-    institutional investments, and finance. I love statistics, data, and modelling
+    Graduate School bound computer science student, with a background in economics,
+    institutional investments, and finance. I love statistics, data, and modeling
     real world problems.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
