@@ -20,9 +20,10 @@ comments: true
 ------------
 
 __Investment Analyst__ 
-<span style="float:right;"><i>5/2016 - Present</i> </span>  
-_Deseret Mutual Benefits Administrators, Salt Lake City, UT_
+<span style="float:right;"><i>5/2016 - 7/2018</i> </span> 
+_Deseret Mutual Benefits Administrators, Salt Lake City, UT_ 
 <ul style="margin-top:-15px;"> </ul>
+
 * Developed stratified sampling algorithm in R to replicate high-yield bond indices
 * Traded corporate bonds, options, and about $500 million in commercial paper
 * Automated several reports using Excel, VBA, R, and batch scripts, saving hours of work weekly
