@@ -7,7 +7,6 @@ comments: true
 ---
 
 # Summary of Qualifications  
-<br>
 
 * __Web Development__: Ruby on Rails, Django, Flask, React.js, OAuth
 * __Software Development__: Git, Testing, Continuous Integration/Deployment, Agile, Scrum
@@ -17,10 +16,9 @@ comments: true
 * __Fixed Income__: Trading of corporate bonds, commercial paper, and options
 
 # Experience    
-<br>
 
 __Software Engineering Intern__
-<span style="float:right;"><i>5/2016 - 7/2018</i> </span> 
+<span style="float:right;"><i>5/2019 - 8/2019</i> </span> 
 
 _Instructure, Salt Lake City, UT_
 
@@ -70,8 +68,6 @@ _Schramm, Williams, and Associates, Washington DC_
 * Analyzed conditions in markets in which clients considered investing
 
 # Education  
-<ul style="margin-top:-20px;"> </ul>
------------
 
 __M.S. Computer Science__
 <span style="float:right;"><i>April 2020</i> </span>  
