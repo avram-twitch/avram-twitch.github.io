@@ -16,7 +16,7 @@ published: true
   In New York, diplomats debated long and hard, with many recesses and tablings of the issue, whether and why human resources should be expended in an attempt to contact the world that would become known as Rakhat when there were so many pressing needs on Earth.
   In Rome, the questions were not whether or why but how soon the mission could be attempted and whom to send.
   
-**The Sparrow** is a story of so many good intentions going to absolute hell.
+*The Sparrow* is a story of so many good intentions going to absolute hell.
 It's not just an exploration of what first contact would likely look like--bad--but also our relationship with God, gaining and losing faith, anthropology on alien life forms, and the dangers of sticking your nose in cultures you truly do not understand.
 While overall it's a bit of a slow burn, Russell keeps it interesting and suspenseful by cutting to the post-mission fall out, dropping little hints of how everything goes wrong.
 And everything pays off in extraordinary, heart-rending ways at the end.
@@ -40,7 +40,7 @@ At times it was a bit _too_ sentimental for my tastes, but it is a quick, fun re
 ## [When I Was a Child I Read Books](https://www.amazon.com/When-Was-Child-Read-Books-ebook/dp/B0071VUVSC) by Marilynne Robinson
 
 This is a series of essays by novelist Marilynne Robinson.
-I enjoyed her spiritual meditations in the novel [Gilead](https://www.amazon.com/Gilead-Novel-Marilynne-Robinson-ebook/dp/B000O76NMS), so I thought I'd give her essays a shot.
+I enjoyed her spiritual meditations in the novel [_Gilead_](https://www.amazon.com/Gilead-Novel-Marilynne-Robinson-ebook/dp/B000O76NMS), so I thought I'd give her essays a shot.
 Robinson explores ideas like how social sciences tend to be reductive of the complexity of humans, how community and imaginative empathy go hand in hand, and how despite its reputation, the Old Testament has a surprisingly consistent theme of being charitable.
 These essays all deal with, in one way or another, the state of spirituality and religion in the United States, so they may not appeal to everyone.
 But Robinson writes beautifully, so if nothing else it's worth reading these essays for that.
